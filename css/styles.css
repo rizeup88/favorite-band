@@ -60,14 +60,14 @@ h2 {
   background-image: url(../images/nsp_group.jpeg);
   background-position: center;
   background-size: cover;
-  padding-bottom: 10em;
+  padding-bottom: 7em;
 }
 
 .header .intro h1 {
   position:relative;
   text-transform: uppercase;
   text-align: center;
-  padding-top: 25em;
+  padding-top: 21em;
   width: 100%;
 }
 
@@ -87,6 +87,7 @@ h2 {
   left: 0;
   float: left;
   background-color: black;
+  border: 2px blue solid;
 }
 
 .header .sidebar1 h2 {
@@ -113,6 +114,7 @@ h2 {
 
 .header .sidebar1 img {
   width: 150px;
+  padding: 10px;
 }
 
 .header .sidebar2 {
@@ -123,6 +125,7 @@ h2 {
   right: 0;
   float: right;
   background-color: yellow;
+  border: 2px blue solid;
 }
 
 .header .sidebar2 h2 {
